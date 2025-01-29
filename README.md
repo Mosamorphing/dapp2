@@ -1,8 +1,11 @@
-# React + Vite
+# dApp2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A decentralized application (dApp) to interact with the functions of a task management contract deployed on the Core testnet.
 
-Currently, two official plugins are available:
+## Deployment environment
+- **IDE**: Remix
+- **Environment**: Injected Provider - Metamask
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Contract Details
+- **Contract Address**: `0xCaA3A0Fe5E67A97FE170cEd4850a0C009b899646`
+- **Network**: Core
